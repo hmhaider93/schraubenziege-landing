@@ -1,7 +1,6 @@
-import React, { type JSX } from "react";
 import "./coming-soon.css";
 import schraubenziegeLight from "./assets/logo.png";
-import szIcon from "../public/sz-icon.png";
+import type { JSX } from "react";
 
 /**
  * ScraubenZiege – Coming Soon (TSX + CSS-only)
